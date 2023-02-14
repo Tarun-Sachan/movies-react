@@ -1,6 +1,7 @@
 # movies-react
         
-        App fetches data from star wars API(https://swapi.dev/) to gather data for movies.
+     
+     App fetches data from star wars API(https://swapi.dev/) to gather data for movies.
 
 ## [Live Demo](https://tarun-sachan.github.io/movies-react/)
 
